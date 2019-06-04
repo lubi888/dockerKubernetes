@@ -8,11 +8,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. 
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          another para
+          another para updated bank holiday monday , docker fedora
         </p>
+	       <p>This is also live now just like </p>
         <a
           className="App-link"
           href="https://reactjs.org"
