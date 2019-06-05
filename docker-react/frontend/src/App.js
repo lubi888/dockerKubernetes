@@ -13,7 +13,7 @@ function App() {
         <p>
           another para updated bank holiday monday , docker fedora
         </p>
-	       <p>This is also live now just like </p>
+	       <p>This is also live now just like its a rainy day</p>
         <a
           className="App-link"
           href="https://reactjs.org"
